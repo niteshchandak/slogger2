@@ -1,0 +1,2 @@
+Thu Apr 23 05:56:16 PDT 2015 ASA.3   10.1.1.1 :%ASA-3-302014: Teardown TCP connection 53507 for dmz:1.1.255.255/47100 to dmz:157.185.50.165/988 duration 200 bytes 100 Richa (Ric)
+Thu Apr 23 05:56:18 PDT 2015 ASA.3   10.1.1.3 :%ASA-3-106100: access-list acl1 permitted TCP outside/1.1.255.255(42432) -> inside/128.1.0.0(29821) hit-cnt 10 Something [0x1001, 0x1000]

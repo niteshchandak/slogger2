@@ -1,0 +1,4 @@
+%ASA-7-338301:Intercepted DNS reply for domain bad from inside:1.1.1.1/3 to outside:165.154.38.125/1024, matched local
+%ASA-7-419001:Dropping TCP packet from inside:1.1.1.1/3 to outside:165.154.38.125/1024, reason: reason, MSS 10, data 30
+%ASA-7-419002:Duplicate TCP SYN from inside:1.1.1.1/3 to outside:165.154.38.125/1024 with different initial sequence number
+%ASA-7-419003:Cleared TCP urgent flag from inside:1.1.1.1/3 to outside:165.154.38.125/1024
